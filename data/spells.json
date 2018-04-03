@@ -1,0 +1,554 @@
+[
+  {
+    "Classification": "Charm",
+    "Effect": "Cause spells to reflect back to the sender.",
+    "Spell(Lower)": "protego",
+    "Spell": "Protego"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Creates a Patronus",
+    "Spell(Lower)": "expectopatronum",
+    "Spell": "Expecto Patronum"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Destroys ectoplasm (remains of ghosts)",
+    "Spell(Lower)": "scruge",
+    "Spell": "Scruge"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Disarms your opponent",
+    "Spell(Lower)": "expelliarmus",
+    "Spell": "Expelliarmus"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Enlarges and item",
+    "Spell(Lower)": "engorgio",
+    "Spell": "Engorgio"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Erases memories",
+    "Spell(Lower)": "obliviate",
+    "Spell": "Obliviate"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Hides a secret within someone",
+    "Spell(Lower)": "fidelius",
+    "Spell": "Fidelius"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Lockhart's Werewolf \"cure",
+    "Spell(Lower)": "homorphus",
+    "Spell": "Homorphus"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Makes an object repel water",
+    "Spell(Lower)": "impervius",
+    "Spell": "Impervius"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Makes on object fly",
+    "Spell(Lower)": "wingardiumleviosa",
+    "Spell": "Wingardium Leviosa"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Moves objects with wand",
+    "Spell(Lower)": "mobiliarbus",
+    "Spell": "Mobiliarbus"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Opens locked objects",
+    "Spell(Lower)": "alohomora",
+    "Spell": "Alohomora"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Renders target immobile.",
+    "Spell(Lower)": "immobulus",
+    "Spell": "Immobulus"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Shoots water from wand.",
+    "Spell(Lower)": "aguamenti",
+    "Spell": "Aguamenti"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Slows an advancing object",
+    "Spell(Lower)": "impedimenta",
+    "Spell": "Impedimenta"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Summons an object",
+    "Spell(Lower)": "accio",
+    "Spell": "Accio"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Target Vomits Slugs",
+    "Spell(Lower)": "eatslugs",
+    "Spell": "Eat Slugs"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Tickles opponent",
+    "Spell(Lower)": "rictusempra",
+    "Spell": "Rictusempra"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Turns small objects into birds",
+    "Spell(Lower)": "avifors",
+    "Spell": "Avifors"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Used to confuse opponent",
+    "Spell(Lower)": "confundus",
+    "Spell": "Confundus"
+  },
+  {
+    "Classification": "Charm",
+    "Effect": "Wand acts like a compass",
+    "Spell(Lower)": "pointme",
+    "Spell": "Point Me"
+  },
+  {
+    "Classification": "Curse",
+    "Effect": "Controls a personUnforgivable",
+    "Spell(Lower)": "imperio",
+    "Spell": "Imperio"
+  },
+  {
+    "Classification": "Curse",
+    "Effect": "Damages opponents eyesight",
+    "Spell(Lower)": "conjunctivitis",
+    "Spell": "Conjunctivitis"
+  },
+  {
+    "Classification": "Curse",
+    "Effect": "Explode Flames on target",
+    "Spell(Lower)": "confringo",
+    "Spell": "Confringo"
+  },
+  {
+    "Classification": "Curse",
+    "Effect": "Locks opponents legs",
+    "Spell(Lower)": "locomotormortis",
+    "Spell": "Locomotor Mortis"
+  },
+  {
+    "Classification": "Curse",
+    "Effect": "Murders opponentUnforgivable",
+    "Spell(Lower)": "avadakedavra",
+    "Spell": "Avada Kedavra"
+  },
+  {
+    "Classification": "Curse",
+    "Effect": "Produces boils on opponent",
+    "Spell(Lower)": "furnunculus",
+    "Spell": "Furnunculus"
+  },
+  {
+    "Classification": "Curse",
+    "Effect": "Tortures opponentUnforgivable",
+    "Spell(Lower)": "crucio",
+    "Spell": "Crucio"
+  },
+  {
+    "Classification": "Jinx",
+    "Effect": "Knocks an object backwards",
+    "Spell(Lower)": "flipendo",
+    "Spell": "Flipendo"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Allows the caster to delve into the mind of the victim",
+    "Spell(Lower)": "legilimens",
+    "Spell": "Legilimens"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Allows user to write on objects",
+    "Spell(Lower)": "flagrate",
+    "Spell": "Flagrate"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Amplifies voice",
+    "Spell(Lower)": "sonorus",
+    "Spell": "Sonorus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Animates statues and armor suits",
+    "Spell(Lower)": "piertotumlocomotor",
+    "Spell": "Piertotum Locomotor"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Area Protection Spell",
+    "Spell(Lower)": "protegototalum",
+    "Spell": "Protego Totalum"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Blasts solid objects aside",
+    "Spell(Lower)": "reducto",
+    "Spell": "Reducto"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Blindfolds the victim",
+    "Spell(Lower)": "obscuro",
+    "Spell": "Obscuro"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Body - Bind",
+    "Spell(Lower)": "petrificustotalus",
+    "Spell": "Petrificus Totalus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Causes weather effect spells to stop",
+    "Spell(Lower)": "meteolojinxrecanto",
+    "Spell": "Meteolojinx Recanto"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Causes wounds as if slashed by a sword",
+    "Spell(Lower)": "sectumsempra",
+    "Spell": "Sectumsempra"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Cleans up messes",
+    "Spell(Lower)": "tergeo",
+    "Spell": "Tergeo"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Clears the target's airway.",
+    "Spell(Lower)": "anapneo",
+    "Spell": "Anapneo"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Conjures a bunch of flowers",
+    "Spell(Lower)": "orchideous",
+    "Spell": "Orchideous"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Conjures the Dark Mark",
+    "Spell(Lower)": "morsmordre",
+    "Spell": "Morsmordre"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Counter spell for Sonorus",
+    "Spell(Lower)": "quietus",
+    "Spell": "Quietus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Counter to Lumos",
+    "Spell(Lower)": "nox",
+    "Spell": "Nox"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Counters \"Prior Incatato",
+    "Spell(Lower)": "deletrius",
+    "Spell": "Deletrius"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Counters Stupefy",
+    "Spell(Lower)": "ennervate",
+    "Spell": "Ennervate"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Counterspell",
+    "Spell(Lower)": "liberacorpus",
+    "Spell": "Liberacorpus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Creates bandages",
+    "Spell(Lower)": "ferula",
+    "Spell": "Ferula"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Creates light at wand tip",
+    "Spell(Lower)": "lumos",
+    "Spell": "Lumos"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Cures unconsciousness",
+    "Spell(Lower)": "rennervate",
+    "Spell": "Rennervate"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Dig out materials",
+    "Spell(Lower)": "defodio",
+    "Spell": "Defodio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Duplicates an Object",
+    "Spell(Lower)": "geminio",
+    "Spell": "Geminio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Enlarges Teeth",
+    "Spell(Lower)": "densaugeo",
+    "Spell": "Densaugeo"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Erects things",
+    "Spell(Lower)": "erecto",
+    "Spell": "Erecto"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Forces opponent to dance",
+    "Spell(Lower)": "tarantallegra",
+    "Spell": "Tarantallegra"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Glues opponent's tongue to roof of mouth",
+    "Spell(Lower)": "langlock",
+    "Spell": "Langlock"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Hangs victim upside down by feet",
+    "Spell(Lower)": "levicorpus",
+    "Spell": "Levicorpus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Heals minor injuries",
+    "Spell(Lower)": "episkey",
+    "Spell": "Episkey"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Keeps Muggles away",
+    "Spell(Lower)": "repellomuggletum",
+    "Spell": "Repello Muggletum"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Knocks out opponent",
+    "Spell(Lower)": "stupefy",
+    "Spell": "Stupefy"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Launches birds from your wand",
+    "Spell(Lower)": "avis",
+    "Spell": "Avis"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Magically locks door",
+    "Spell(Lower)": "colloportus",
+    "Spell": "Colloportus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Makes conjured items attack",
+    "Spell(Lower)": "oppugno",
+    "Spell": "Oppugno"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Makes Objects Explode",
+    "Spell(Lower)": "expulso",
+    "Spell": "Expulso"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Makes Objects Hard",
+    "Spell(Lower)": "duro",
+    "Spell": "Duro"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Moves unconscious bodies",
+    "Spell(Lower)": "mobilicorpus",
+    "Spell": "Mobilicorpus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Opens \"One eyed witch\" hump",
+    "Spell(Lower)": "dissendium",
+    "Spell": "Dissendium"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Packs a trunk (suitcase)",
+    "Spell(Lower)": "pack",
+    "Spell": "Pack"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Prevents nearby people from listening to conversations",
+    "Spell(Lower)": "muffliato",
+    "Spell": "Muffliato"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Produces Snake",
+    "Spell(Lower)": "serpensortia",
+    "Spell": "Serpensortia"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Protection against hexes",
+    "Spell(Lower)": "salviohexia",
+    "Spell": "Salvio Hexia"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Protects one from Dark Magic",
+    "Spell(Lower)": "protegohorribilis",
+    "Spell": "Protego Horribilis"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Releases user from binding",
+    "Spell(Lower)": "relashio",
+    "Spell": "Relashio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Removes Pixies (maybe)",
+    "Spell(Lower)": "peskipiksipesternomi",
+    "Spell": "Peskipiksi Pesternomi"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Repairs Things",
+    "Spell(Lower)": "reparo",
+    "Spell": "Reparo"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Result when brother wands duel",
+    "Spell(Lower)": "prioriincantatum",
+    "Spell": "Priori Incantatum"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Returns items to original size. Counters Engorgio",
+    "Spell(Lower)": "reducio",
+    "Spell": "Reducio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Reveals a wands last spell / cast",
+    "Spell(Lower)": "priorincantato",
+    "Spell": "Prior Incantato"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Reveals Hidden secrets or magical properties",
+    "Spell(Lower)": "specialisrevelio",
+    "Spell": "Specialis Revelio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Reveals humans nearby",
+    "Spell(Lower)": "homenumrevelio",
+    "Spell": "Homenum Revelio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Reveals invisible ink",
+    "Spell(Lower)": "aparecium",
+    "Spell": "Aparecium"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Silences victim",
+    "Spell(Lower)": "silencio",
+    "Spell": "Silencio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Splits seams",
+    "Spell(Lower)": "diffindo",
+    "Spell": "Diffindo"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Starts a fire",
+    "Spell(Lower)": "incendio",
+    "Spell": "Incendio"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Stops any current spells",
+    "Spell(Lower)": "finiteincantatum",
+    "Spell": "Finite Incantatum"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Strengthen an enclosure from enemies",
+    "Spell(Lower)": "caveinimicum",
+    "Spell": "Cave Inimicum"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Ties someone up",
+    "Spell(Lower)": "incarcerous",
+    "Spell": "Incarcerous"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Turns stairs into ramps",
+    "Spell(Lower)": "glisseo",
+    "Spell": "Glisseo"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Unsticks an object",
+    "Spell(Lower)": "waddiwasi",
+    "Spell": "Waddiwasi"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Use this spell and laugh to defeat a boggart",
+    "Spell(Lower)": "riddikulus",
+    "Spell": "Riddikulus"
+  },
+  {
+    "Classification": "Spell",
+    "Effect": "Wind Damaging Spell",
+    "Spell(Lower)": "deprimo",
+    "Spell": "Deprimo"
+  }
+]

@@ -1,0 +1,16 @@
+<%= javascript_include_tag 'd3.min' %>
+<%= javascript_include_tag 'd3-tip' %>
+<%= javascript_include_tag 'crossfilter.min' %>
+
+
+<script>
+  var_spell= <%=@spell_data_str.to_json.html_safe %>
+  var_mention= <%=@mention_data_str.to_json.html_safe %>
+</script>
+
+<h1 class='lead'>Timeline of Every Harry Potter Spell</h1>
+<p>Hover over each circle to read the spell name and context, and to view that spell's other appearences.</p>
+<div id="timeline"></div>
+
+
+<%= javascript_include_tag 'freestyle' %>
